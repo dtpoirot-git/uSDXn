@@ -10,6 +10,15 @@ A simple, buildable, open-source QRP SDR transceiver.
 uSDXn is an experimental QRP SDR transceiver project based on the uSDX concept, with a focus on simplicity, affordability, accessibility, and home construction.
 
 The project is being developed with the idea that a radio should not only be technically capable, but also practical for the experimenter to build and understand.
+## Community
+
+uSDXn is part of the larger uSDX community.
+
+For discussions, experiments, modifications, troubleshooting, and other
+uSDX projects, visit the uSDX Facebook group:
+
+**uSDX Community on Facebook**  
+[https://www.facebook.com/groups/599314207744366/](https://www.facebook.com/groups/uSDXQrp)
 
 ## V1
 
