@@ -18,8 +18,7 @@ For discussions, experiments, modifications, troubleshooting, and other
 uSDX projects, visit the uSDX Facebook group:
 
 **uSDX Community on Facebook**  
-[https://www.facebook.com/groups/599314207744366/](https://www.facebook.com/groups/uSDXQrp)
-
+https://www.facebook.com/groups/uSDXQrp
 ## V1
 
 The first version of uSDXn is being developed for the **40-meter amateur radio band**.
